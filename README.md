@@ -9,3 +9,5 @@ Vineeth Gutta, 1st year PhD CISC student, favorite programming language is Java
 John Doe, Senior ELEG student, favorite programming language is Bash
 
 Elaine Example, Junior MEEG student, favorite programming language is Excel Macros
+
+Jeremy Fields, Sophomore Computer Science BS, favorite programming language is C#
