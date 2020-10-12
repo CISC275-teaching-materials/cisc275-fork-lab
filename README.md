@@ -6,4 +6,4 @@ Note: you can't edit this repo. You can only edit in a fork(of this repo) that b
 
 ```Please use two lines to separate in the README text. I will get us started:```
 
-Patruck O'Neill, Junior CISC and English BA student, favorite programming language is Java
+Patrick O'Neill, Junior CISC and English BA student, favorite programming language is Java
