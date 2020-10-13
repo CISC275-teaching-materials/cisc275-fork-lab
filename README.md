@@ -12,4 +12,4 @@ John Doe, Senior ELEG student, favorite programming language is Bash
 
 Elaine Example, Junior MEEG student, favorite programming language is Excel Macros
 
---Shuobofang Yang, Junior INSY student, favorite programming language is Java.--
+Shuobofang Yang, Junior INSY student, favorite programming language is Java.
