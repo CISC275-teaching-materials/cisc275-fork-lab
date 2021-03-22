@@ -6,8 +6,7 @@ Note: you can't edit this repo. You can only edit in a fork(of this repo) that b
 
 ```Please use two lines to separate in the README text. I will get us started:```
 
-Vineeth Gutta, 2nd year CISC PhD student, favorite programming language is Java
+Dontae Esdaile, Junior CISC student, favorite programming language is Java
 
-John Doe, Senior ELEG student, favorite programming language is Bash
 
-Elaine Example, Junior MEEG student, favorite programming language is Excel Macros
+
