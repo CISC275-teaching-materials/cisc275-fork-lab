@@ -8,6 +8,5 @@ Note: you can't edit this repo. You can only edit in a fork(of this repo) that b
 
 Vineeth Gutta, 2nd year CISC PhD student, favorite programming language is Java
 
-John Doe, Senior ELEG student, favorite programming language is Bash
 
-Elaine Example, Junior MEEG student, favorite programming language is Excel Macros
+Johnny Pabst, Senior CPEG student, favorite programming language is Python
